@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Created by ALIENWARE on 2017/6/25.
  */
 @SpringBootApplication
-public class SpliderApplication {
+public class SpiderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpliderApplication.class, args);
+        SpringApplication.run(SpiderApplication.class, args);
     }
 
 }
